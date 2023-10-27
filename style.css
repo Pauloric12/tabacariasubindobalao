@@ -1,5 +1,5 @@
 .logomarca{
-    background-color: black;
+    background-color: rgb(0, 0, 0);
     text-align: center;
 
 
@@ -12,7 +12,7 @@
 
 
   .principal{     
-  background-color: rgb(110, 110, 110);
+  background-color: rgb(128, 127, 127);
   text-align: center;
   padding: 20px;
   } 
