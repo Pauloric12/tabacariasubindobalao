@@ -22,7 +22,7 @@
 
 
  p{font-size: 25px;      
-   color: rgb(255, 255, 255);
+   color: rgb(255, 255, 255);}
 
   
   
@@ -31,8 +31,8 @@
 
 
   }
- .lista{
-  background-color: black;
+ .acessório{
+  background-color: rgb(255, 255, 255);
   text-align: center;
   padding: 20px;
 
